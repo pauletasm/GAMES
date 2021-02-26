@@ -1,0 +1,9 @@
+Blocity is a game developed by me on Unity and coded on C++, 
+this game was insipred by a large group of similar games available on smartphones where a ball is controlled by the player. 
+The concept of the game is to controll the ball in order do dodge the obstacles.
+We can move:
+Right
+Left
+Up - to give the ball more speed
+Down - to slow it down until a certain speed 
+It was my first game but I think it turned out pretty cool!
